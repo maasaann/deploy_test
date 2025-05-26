@@ -45,3 +45,4 @@ if st.button("質問する"):
         result = llm(messages)
 
         st.write(result.content)
+
