@@ -11,6 +11,7 @@ st.title("21-6 【提出課題】LLM機能を搭載したWebアプリを開�
 st.write("")
 st.write("##### LLMタイプ①: 旅行プランを考えてほしい")
 st.write("##### LLMタイプ②: 観光名所を教えてほしい")
+st.write("##### 2025年5月30日12時38分")
 st.write("")
 
 selected_item = st.radio(
